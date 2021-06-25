@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1006833707100",
+    "project_id": "genelsinav",
+    "storage_bucket": "genelsinav.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006833707100:android:bc7835916274f930989e99",
+        "android_client_info": {
+          "package_name": "com.example.genel_sinav"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006833707100-vnsai55fclanveoie378digoueghd509.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEAt45nPnc2EESyYeWlw2GoqJ5_jMyTlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006833707100-vnsai55fclanveoie378digoueghd509.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
